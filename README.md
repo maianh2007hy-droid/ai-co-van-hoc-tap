@@ -1,4 +1,4 @@
-# AI Cố vấn học tập
+# AI Cố vấn nhập học
 
 Ứng dụng Streamlit hỏi–đáp dựa trên file Excel câu hỏi thường gặp, sử dụng mô hình embedding đa ngôn ngữ để tìm câu hỏi gần nghĩa.
 
